@@ -16,4 +16,4 @@ Layout code :
 
 ```
 
-![image](https://github.com/zerozhiqin/AutoBreakLineLayout/raw/images/pic.png)
+![image](https://github.com/zerozhiqin/AutoBreakLineLayout/blob/master/images/pic.png)
