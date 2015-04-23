@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BreakLineLayout">
+        <attr name="shareWidth" format="boolean" />
+        <attr name="maxLines" format="integer|enum" >
+            <enum name="all" value="-1"/>
+        </attr>
+    </declare-styleable>
+</resources>
