@@ -16,4 +16,4 @@ Layout code :
 
 ```
 
-![Unfocused AutoBreakLineLayout example](https://raw.github.com/zerozhiqin/AutoBreakLineLayout/pic.png)
+![image](https://github.com/zerozhiqin/AutoBreakLineLayout/raw/images/pic.png)
